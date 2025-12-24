@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+## I'm Jose and this is my first draft and test
+- I currently working as Data Analyst
+- I'm really interested in AI and I'm already doing many courses
+- I would like to collaborate on projects about data
 
 <!--
 **Jart7/Jart7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
